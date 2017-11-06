@@ -1,0 +1,5 @@
+name: Ban
+main: me.checkfile.ban.Ban
+version: 0.1
+commands:
+     ban:
